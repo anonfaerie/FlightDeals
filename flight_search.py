@@ -2,8 +2,8 @@ import requests
 import pprint
 from flight_data import FlightData
 
-FLIGHT_API = "QfxQ6PFDb2x5oI3DD8iiVTuahDZINEZh"
-TEQUILA_ENDPOINT = "https://api.tequila.kiwi.com/locations/query"
+FLIGHT_API = YOUR_API
+TEQUILA_ENDPOINT = YOUR_TEQUILA_ENDPOINT
 
 
 class FlightSearch:
